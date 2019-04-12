@@ -1,6 +1,6 @@
 # RISD Nav Demo
 
-This repo demonstrates how to use the RISD Nav component.
+This repo demonstrates how to use the RISD Nav component outside of a React ecosystem.
 
 ## Running this demo
 
