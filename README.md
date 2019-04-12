@@ -9,7 +9,7 @@ To run this demo, clone this repo and run `npm i` to install all dependencies. T
 ## Implementing the Nav from scratch
 
 1. Install the required packages to your project: `npm i -S @risd/ui @risd/react-hydrator`
-2. Import `themes` from the UI package and `hydrateComponents` from the React hydrator package into your script:
+2. Import `themes` from the [UI package](https://github.com/risd/risd-edu/tree/master/packages/risd-ui) and `hydrateComponents` from the [React hydrator](https://github.com/risd/risd-edu/tree/master/packages/risd-react-hydrator) package into your script:
 
 ```js
 import { themes } from "@risd/ui";
